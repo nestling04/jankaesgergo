@@ -278,7 +278,7 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
-     color: #d8516e;
+     color: #d4af37;
      font-size: 16px;
      line-height: 20px;
 }
@@ -305,7 +305,7 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .head_top {
-     background: url(../images/banner.jpg);
+     background: url(../images/faded_header.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-top: 60px;
@@ -338,7 +338,7 @@ button {
 }
 
 .text-bg h1 {
-     color: #fff;
+     color: #d4af37;
      font-size: 75px;
      line-height: 90px;
      padding-bottom: 70px;
@@ -347,7 +347,7 @@ button {
 
 .text-bg span {
      font-family: 'Dancing Script', cursive;
-     color: #fff;
+     color: #d4af37;
      font-size: 60px;
      line-height: 77px;
      font-weight: bold;
@@ -356,7 +356,7 @@ button {
 }
 
 .text-bg p {
-     color: #fff;
+     color: #d4af37;
      font-size: 17px;
      line-height: 28px;
      padding: 40px 0;
@@ -365,7 +365,7 @@ button {
 .text-bg a {
      font-size: 17px;
      background-color: #fff;
-     color: #dc5373;
+     color: #d4af37;
      padding: 13px 0px;
      width: 100%;
      max-width: 190px;
@@ -421,7 +421,7 @@ button {
 }
 
 .weare .titlepage h2::after {
-     border-bottom: #f55171 solid 1px;
+     border-bottom: #d4af37 solid 1px;
      content: "";
      position: absolute;
      bottom: 0;
@@ -442,7 +442,7 @@ button {
 
 .weare .weare_box figure img {
      border-radius: 190px;
-     background: #f55171;
+     background: #000045;
      padding: 15px;
 }
 
@@ -459,7 +459,7 @@ button {
 }
 
 .weare .weare_box .read_more:hover {
-     background: #f55171;
+     background: #000045;
 }
 
 
@@ -473,7 +473,7 @@ button {
 }
 
 .Our {
-     background: #f55171;
+     background: #d6c9b1;
      margin-top: 90px;
      padding: 60px 0px;
 }
@@ -566,7 +566,7 @@ button {
 }
 
 .regist .titlepage h2::after {
-     border-bottom: #f55171 solid 1px;
+     border-bottom: #d4af37 solid 1px;
      content: "";
      position: absolute;
      bottom: 0;
@@ -613,7 +613,7 @@ button {
 }
 
 .regist .main_form .register:hover {
-     background-color: #f55171;
+     background-color: #d4af37;
      transition: ease-in all 0.5s;
      color: #fff;
      border-radius: 26px;
@@ -666,7 +666,7 @@ button {
 .testimonial {
      margin-top: 90px;
      padding-bottom: 90px;
-     background: #f55171;
+     background: #d4af37;
      padding-top: 60px;
 }
 
@@ -771,7 +771,7 @@ button {
 /** footer **/
 
 .multi {
-     color: #f55171;
+     color: #d4af37;
      font-weight: bold;
      font-size: 60px;
 }
@@ -829,7 +829,7 @@ button {
 }
 
 .copyright a:hover {
-     color: #f55171;
+     color: #d4af37;
 }
 
 
