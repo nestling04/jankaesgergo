@@ -515,6 +515,7 @@ button {
      border-radius: 85px;
      transition: ease-in all 0.1s;
      cursor: pointer;
+     padding: 15px;
 }
 
 .Our_box i:hover {
